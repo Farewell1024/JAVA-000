@@ -1,4 +1,4 @@
-package q1;
+package Week_01.q1;
 
 /**
  * Function:

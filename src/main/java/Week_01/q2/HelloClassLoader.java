@@ -1,4 +1,4 @@
-package q2;
+package Week_01.q2;
 
 import java.io.*;
 import java.lang.reflect.InvocationTargetException;
